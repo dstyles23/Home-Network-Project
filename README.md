@@ -51,7 +51,8 @@ The Nokia router was removed from the network architecture. OPNsense now handles
   - **WAN:** ETH1 (igc1)
   - **LAN:** ETH0 (igc0)
 - Accessed the OPNsense web interface and completed the setup wizard.
-<img width="3431" height="972" alt="image" src="https://github.com/user-attachments/assets/d1ed15c7-7c34-44dd-8acd-fbcbb69bf8b0" />
+<img width="3431" height="972" alt="opnsensepng" src="https://github.com/user-attachments/assets/bb2ee56e-9b9e-4239-a1d2-ae10a560f41a" />
+
 
 ### 2. Network Switch Setup
 
